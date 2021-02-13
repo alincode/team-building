@@ -1,5 +1,9 @@
 # Team Building
 
+### 線上協作工具
+
+- [【工作效率|隨筆】Miro Mindmap 測試筆記. 前言 | by 招弟嘉嘉 | Medium](https://medium.com/@judyjiamin/ba66a497fa84)
+
 ### 敏捷
 
 - [敏捷小班～估不估計是學問](https://ithelp.ithome.com.tw/articles/10216228)
